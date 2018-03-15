@@ -1,0 +1,19 @@
+{
+  "name": "rawbuild",
+  "version": "0.0.1",
+  "description": "[WIP/alpha] A small build system powered by Google Cloud Storage and Cloud Functions. It has good Slack and Github integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "footest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sconover/rawbuild.git"
+  },
+  "author": "Steve Conover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sconover/rawbuild/issues"
+  },
+  "homepage": "https://github.com/sconover/rawbuild#readme"
+}
