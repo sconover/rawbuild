@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sconover/rawbuild/issues"
   },
-  "homepage": "https://github.com/sconover/rawbuild#readme"
+  "homepage": "https://github.com/sconover/rawbuild#readme",
+  "devDependencies": {
+    "@google-cloud/functions-emulator": "^1.0.0-beta.4"
+  }
 }
